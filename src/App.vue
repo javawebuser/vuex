@@ -4,6 +4,7 @@
     <span></span>
     <add></add>
     <p>--------------------------------</p>
+    123456
     <jian></jian>
   </div>
 </template>
